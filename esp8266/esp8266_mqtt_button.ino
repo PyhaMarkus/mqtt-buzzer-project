@@ -79,7 +79,7 @@ void loop() {
       }
 
       // Publish a message with the topic and contents of:
-      client.publish("support/location1", "buttonState is HIGH - Location 1");
+      client.publish("support/location1", "buttonState is HIGH - Location1");
 
       // Turn the LED on for 3 seconds.
       digitalWrite(ledPin, HIGH);
