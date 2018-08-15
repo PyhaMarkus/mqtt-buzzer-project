@@ -83,6 +83,6 @@ nano mqtt_buzzer.py # change the MQTT and email information to match yours
 **Running the python code**
 
 ```
-cd mqttbuzzer-project
+cd mqtt-buzzer-project
 python mqtt_buzzer.py
 ```
