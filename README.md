@@ -9,7 +9,6 @@ The amount of ESP-12Es and buttons can easily be increased with small additions 
 * Black wires = digital data
 * Blue wires = ground
 * Red wires = 3.3V VCC
-* Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 ---
 
