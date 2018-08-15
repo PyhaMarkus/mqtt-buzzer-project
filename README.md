@@ -35,14 +35,14 @@ Pressing the button on the ESP-12E publishes an MQTT message which is then recei
 ---
 
 ### Libraries used for the button:
-*ESP8266WiFi.h
-*PubSubClient.h
+* ESP8266WiFi.h
+* PubSubClient.h
 
 ### Libraries used for the buzzer:
-*time*
-*sys
-*paho.mqtt.client
-*RPi.GPIO
-*smtplib
+* time
+* sys
+* paho.mqtt.client
+* RPi.GPIO
+* smtplib
 
 ---
