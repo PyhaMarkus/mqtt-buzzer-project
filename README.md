@@ -73,6 +73,11 @@ sudo python setup.py install
 sudo apt-get install git
 git-clone https://github.com/PyhaMarkus/mqtt-buzzer-project.git
 cd mqtt-buzzer-project
-nano mqtt_buzzer.py # make any necessary changes
+nano mqtt_buzzer.py # change the MQTT and email information to match yours
+```
+**Running the python code**
+
+```
+cd mqttbuzzer-project
 python mqtt_buzzer.py
 ```
