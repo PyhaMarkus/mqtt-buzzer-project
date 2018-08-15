@@ -6,10 +6,10 @@ Pressing the button on the ESP-12E publishes an MQTT message which is then recei
 
 The amount of ESP-12Es and buttons can easily be increased with small additions to the source code.
 
-Black wires = digital data
-Blue wires = ground
-Red wires = 3.3V VCC
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+* Black wires = digital data
+* Blue wires = ground
+* Red wires = 3.3V VCC
+* Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 ---
 
