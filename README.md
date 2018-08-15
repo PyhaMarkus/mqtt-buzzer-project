@@ -39,7 +39,7 @@ Pressing the button on the ESP-12E publishes an MQTT message which is then recei
 *PubSubClient.h
 
 ### Libraries used for the buzzer:
-*time
+*time*
 *sys
 *paho.mqtt.client
 *RPi.GPIO
