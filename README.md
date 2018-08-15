@@ -37,8 +37,7 @@ The amount of ESP-12Es and buttons can easily be increased with small additions 
 | 1        | RED LED                               |
 | 1        | 100 ohm resistor                      |
 | 1        | 220 ohm resistor                      |
-| 2        | LED                                   |
-| 1        | A small breadboard                    |
+| 1        | Small breadboard                      |
 | A lot    | Jumper wire                           |
 
 ---
