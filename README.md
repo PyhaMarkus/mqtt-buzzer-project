@@ -67,9 +67,12 @@ tar -xzvf paho-mqtt-1.3.1.tar.gz
 cd paho-mqtt-1.1
 sudo python setup.py install
 ```
-**Installing 
+**Installing the python code from this repository:
 
-
-
-
-
+```
+sudo apt-get install git
+git-clone https://github.com/PyhaMarkus/mqtt-buzzer-project.git
+cd mqtt-buzzer-project
+nano mqtt_buzzer.py # make any necessary changes
+python mqtt_buzzer.py
+```
