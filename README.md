@@ -64,10 +64,10 @@ sudo apt-get install mosquitto
 sudo apt-get install mosquitto-clients # not required but useful for testing purposes
 wget https://files.pythonhosted.org/packages/2a/5f/cf14b8f9f8ed1891cda893a2a7d1d6fa23de2a9fb4832f05cef02b79d01f/paho-mqtt-1.3.1.tar.gz
 tar -xzvf paho-mqtt-1.3.1.tar.gz
-cd paho-mqtt-1.1
+cd paho-mqtt-1.3.1
 sudo python setup.py install
 ```
-**Installing the python code from this repository:
+**Installing the python code from this repository**
 
 ```
 sudo apt-get install git
